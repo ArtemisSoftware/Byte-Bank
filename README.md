@@ -1,8 +1,8 @@
-# Bytebank
+# Bytebank-Prototype
 
-Byte Bank Flutter application.
+Byte Bank Prototype Flutter application.
 
-The app consists of implementing screens using widgets. A list to show data and a form to add new data.
+This tutorial Flutter app consists of implementing screens using widgets. A list to show data and a form to add new data.
 
 ## Getting Started
 
