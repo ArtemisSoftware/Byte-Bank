@@ -1,6 +1,8 @@
 # Bytebank
 
-Bank Flutter application.
+Byte Bank Flutter application.
+
+The app consists of implementing screens using widgets. A list to show data and a form to add new data.
 
 ## Getting Started
 
