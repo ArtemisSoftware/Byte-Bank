@@ -1,4 +1,4 @@
-# bytebank
+# Bytebank
 
 Bank Flutter application.
 
